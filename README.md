@@ -116,4 +116,4 @@
 `«B19»` Групи однотипних елементів зібрані у списки <ul>.
 
 
-  
+  ![Image alt](https://github.com/katyanaduda/goit-markup-hw-01/blob/main/68439195-d14d-43a6-9364-624a71d185fbscreen.png)
